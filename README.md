@@ -88,7 +88,7 @@ The analysis generates:
 
 ## Author
 
-[Your Name/Project Info]
+Mohd Areeb
 
 ## Date
 
